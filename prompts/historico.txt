@@ -1,0 +1,16 @@
+"prompt para [criação do backend e banco de dados SQLite] feito por Werner":
+"Juntos, vamos criar a estrutura inicial de um backend em Node.js com Express e
+SQLite para uma rede social chamada FiuFiu, com a paleta de cores amarelo e branco.
+O banco de dados precisa ter as tabelas: 'users' (id, username, password em hash),
+'posts' (id, user_id, content, created_at) e 'favorites' (user_id, post_id).
+Inclua as rotas básicas de cadastro de usuário e login."
+
+"prompt para [resolução de erro ao carregar o componente App.js] feito por Leonardo":
+"deu erro ao substituir o código no App.js"
+
+"prompt para [resolução de erro ao carregar o componente App.js] feito por Leonardo":
+"tive que deixar ambos com o L minusculo, somente "login".
+
+"prompt para [implementação da funcionalidade extra de dark mode e melhoria de design] feito por Luan":
+"Antes de adicionar o readme e fazer outro commit, conseguimos melhor o layout da página? Estou achando
+o design muito básico"
