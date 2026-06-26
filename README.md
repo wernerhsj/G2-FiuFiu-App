@@ -24,3 +24,7 @@ Abra um terminal na pasta raiz do projeto e execute:
 cd Backend
 npm install
 node server.js
+
+## 🌍 Deploy da Aplicação (Bônus)
+A aplicação está online e pode ser acessada através do link:
+👉 [Acessar FiuFiu](https://g2-fiu-fiu-app.vercel.app/)
